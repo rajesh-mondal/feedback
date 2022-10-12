@@ -22,5 +22,6 @@
         </div>
       </div>
     <?php endforeach; ?>
+    
 <?php include 'inc/footer.php'; ?> 
 
